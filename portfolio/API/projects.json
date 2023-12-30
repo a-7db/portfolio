@@ -1,0 +1,100 @@
+{
+        "heading": "Projects",
+        "proj_list": [
+          {
+            "proj_ID": 1,
+            "img": "https://user-images.githubusercontent.com/121258636/222192036-8fe0e3d7-e9ef-4009-8c61-e420b752c402.png",
+            "tags": [
+              "Flutter",
+              "Firebase",
+              "Dart"
+            ],
+            "title": "Razza App",
+            "duration": "Jun 2023 - Jul 2023",
+            "desc": "Mobile Application made by Flutter for Arabian uniform store.",
+            "partner": {
+              "name": "?",
+              "img": "",
+              "github_account": "#"
+            },
+            "btns": [
+              {
+                "text": "View Code",
+                "link": "https://github.com/a-7db/Razza-Mobile-App"
+              },
+              {
+                "text": "View Live App",
+                "link": "#"
+              }
+            ],
+            "project_link": "https://github.com/a-7db/Razza-Mobile-App"
+          },
+          {
+            "proj_ID": 2,
+            "img": "https://github.com/a-7db/CodeWorld-project/raw/main/public/images/readMe/home-header.PNG",
+            "tags": [
+              "PHP",
+              "MySql",
+              "CSS",
+              "HTML",
+              "Jquery",
+              "Ajax",
+              "Bootstrap",
+              "JavaScript",
+              "Custom MVC"
+            ],
+            "title": "Code World",
+            "duration": "Mar 2023 - May 2023",
+            "desc": "Programming & computer science online courses website",
+            "partner": {
+              "name": "Mohammed Alhayki",
+              "img": "https://avatars.githubusercontent.com/u/123910751?v=4",
+              "github_account": "https://github.com/MohammedAlhayki"
+            },
+            "btns": [
+              {
+                "text": "View Code",
+                "link": "https://github.com/a-7db/CodeWorld-project"
+              },
+              {
+                "text": "View Live App",
+                "link": "#"
+              }
+            ],
+            "project_link": "https://github.com/a-7db/CodeWorld-project"
+          },
+          {
+            "proj_ID": 3,
+            "img": "https://github.com/a-7db/attendence-project/raw/main/style/images/project-image.PNG",
+            "tags": [
+              "Laravel",
+              "PHP",
+              "MySql",
+              "HTML",
+              "CSS",
+              "Bootstrap",
+              "JavaScript"
+            ],
+            "title": "Fingerprint Attendence",
+            "duration": "Dec 2023 - Present",
+            "desc": "A website that helps teachers transfer prepartion data after prepartion by fingerprint to the Noor website",
+            "partner": {
+              "name": "Mahdi Alfayez",
+              "img": "https://avatars.githubusercontent.com/u/122507581?v=4",
+              "github_account": "https://github.com/MahdiAlfayez"
+            },
+            "btns": [
+              {
+                "text": "View Code",
+                "link": "https://github.com/a-7db/attendence-project"
+              },
+              {
+                "text": "View Live App",
+                "link": "#"
+              }
+            ],
+            "project_link": "https://github.com/a-7db/attendence-project"
+          }
+        ]
+
+}

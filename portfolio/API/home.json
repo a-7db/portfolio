@@ -1,0 +1,29 @@
+{
+        "name": "Ahmed",
+        "industry": "Fullstack Developer",
+        "definition": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum dicta repudiandae, nisi obcaecati totamconsequuntur! Unde debitis accusantium aliquam facere, repellat qui neque nemo est voluptatem perspiciatis, culpa, odit sunt!",
+        "btns": [
+            {
+                "text": "Hire Me",
+                "link": "https://www.linkedin.com/in/ahmed-alhadab"
+            },
+            {
+              "text": "Let's Talk",
+              "link": "https://api.whatsapp.com/send/?phone=966507424540"
+            }
+        ],
+        "social_apps": [
+            {
+                "icon": "bxl-linkedin",
+                "link": "https://www.linkedin.com/in/ahmed-alhadab"
+            },
+            {
+                "icon": "bxl-twitter",
+                "link": "https://twitter.com/a_7db_"
+            },
+            {
+                "icon": "bxl-github",
+                "link": "https://github.com/a-7db"
+            }
+        ]
+    }

@@ -1,0 +1,35 @@
+{
+        "heading": "My",
+        "in_span": "Journey",
+        "my_edu": {
+            "heading": "Education",
+          "edu_list": [
+            {
+              "duration": "2020 - 2023",
+              "level": "Diploma Degree - IPA",
+              "desc": "orem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium accusantium distinctio autem, possimus quam, at voluptates maiores consequatur ipsum veritatis ab maxime. Aperiam blanditiis eum iusto quas delectus veniam iste!"
+            },
+            {
+              "duration": "2017 - 2019",
+              "level": "Heigh School",
+              "desc": "orem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium accusantium distinctio autem, possimus quam, at voluptates maiores consequatur ipsum veritatis ab maxime. Aperiam blanditiis eum iusto quas delectus veniam iste!"
+            }
+          ]
+        },
+        "my_courses": {
+            "heading": "Courses",
+            "edu_list": [
+                {
+                    "duration": "APR 2022 - MAY 2022",
+                    "level": "MyDql",
+                    "desc": "orem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium accusantium distinctio autem, possimus quam, at voluptates maiores consequatur ipsum veritatis ab maxime. Aperiam blanditiis eum iusto quas delectus veniam iste!"
+                },
+                {
+                    "duration": "DEC 2023 - OCT 2023",
+                    "level": "ASP.NET",
+                    "desc": "orem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium accusantium distinctio autem, possimus quam, at voluptates maiores consequatur ipsum veritatis ab maxime. Aperiam blanditiis eum iusto quas delectus veniam iste!"
+                }
+            ]
+        }
+
+}

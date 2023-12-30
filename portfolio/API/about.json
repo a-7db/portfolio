@@ -1,0 +1,11 @@
+{
+        "heading": "About",
+        "in_span": "Me",
+        "avatar": "images/about-img.jpg",
+        "industry": "Fullstack Developer",
+        "about_me": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam quos nulla quod officiis nihil voluptas earum fuga, perferendis voluptatibus repellendus velit esse soluta culpa, molestiae vel non odio dolorem porro.",
+        "about_btn": {
+            "text": "Read More",
+            "link": "#"
+        }
+}

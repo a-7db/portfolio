@@ -1,0 +1,112 @@
+{
+        "heading": "My",
+        "in_span": "Skills",
+        "text": "Here are some of my skills on which I have been working on for the past 4 years.",
+        "box_list": [
+            {
+                "title": "Forontend",
+                "skill_list": [
+                    {
+                        "skill_name": "HTML5",
+                        "icon": "html-5.png"
+                    },
+                    {
+                        "skill_name": "CSS3",
+                        "icon": "css.png"
+                    },
+                    {
+                        "skill_name": "bootstrap",
+                        "icon": "bootstrap.png"
+                    },
+                    {
+                        "skill_name": "Adobe Photoshop",
+                        "icon": "photoshop.png"
+                    },
+                    {
+                        "skill_name": "JavaScript",
+                        "icon": "js.png"
+                    },
+                    {
+                        "skill_name": "Flutter",
+                        "icon": "flutter.png"
+                    },
+                    {
+                        "skill_name": "Adobe Illustrator",
+                        "icon": "illustrator.png"
+                    }
+                ]
+            },
+            {
+                "title": "Backend",
+                "skill_list": [
+                    {
+                        "skill_name": "C#",
+                        "icon": "c-sharp.png"
+                    },
+                    {
+                        "skill_name": "JavaScript",
+                        "icon": "js.png"
+                    },
+                    {
+                        "skill_name": "Dart",
+                        "icon": "dart.png"
+                    },
+                    {
+                        "skill_name": "PHP",
+                        "icon": "php.png"
+                    },
+                    {
+                        "skill_name": "MySql",
+                        "icon": "mysql.png"
+                    },
+                    {
+                        "skill_name": "Sql Server",
+                        "icon": "sql-server.png"
+                    },
+                    {
+                        "skill_name": "Firebase",
+                        "icon": "firebase.png"
+                    }
+                ]
+            },
+            {
+                "title": "Frameworks",
+                "skill_list": [
+                    {
+                        "skill_name": ".NET Framework",
+                        "icon": "Microsoft_.NET.png"
+                    },
+                    {
+                        "skill_name": "Flutter",
+                        "icon": "flutter.png"
+                    }
+                ]
+            },
+            {
+                "title": "Others",
+                "skill_list": [
+                    {
+                        "skill_name": "Git",
+                        "icon": "git.png"
+                    },
+                    {
+                        "skill_name": "GitHub",
+                        "icon": "github.png"
+                    },
+                    {
+                        "skill_name": "VS Code",
+                        "icon": "vs-code.png"
+                    },
+                    {
+                        "skill_name": "Visual Studio",
+                        "icon": "Visual-Studio.png"
+                    },
+                    {
+                        "skill_name": "Postman",
+                        "icon": "postman.png"
+                    }
+                ]
+            }
+        ]
+
+}
